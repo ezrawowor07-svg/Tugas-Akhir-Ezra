@@ -1,0 +1,6 @@
+=== VFDB ===
+Accuracy     : 0.7750
+Recall       : 0.7750
+F1-score     : 0.7679
+Specificity  : 0.7750
+ROC-AUC      : 0.8125
