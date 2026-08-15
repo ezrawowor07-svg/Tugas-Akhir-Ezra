@@ -1,0 +1,6 @@
+=== AFDB ===
+Accuracy     : 0.7455
+Recall       : 0.7455
+F1-score     : 0.7454
+Specificity  : 0.7455
+ROC-AUC      : 0.7927
